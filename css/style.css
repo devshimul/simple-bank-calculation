@@ -4,3 +4,13 @@
   box-sizing: border-box;
   font-family: "Parkinsans", sans-serif;
 }
+
+/* Login page css start */
+body {
+  background-image: linear-gradient(to right bottom, #35e191, #6de47d);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+/* Login page css end */
